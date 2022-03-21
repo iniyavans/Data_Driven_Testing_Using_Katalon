@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5c1079af-6d2b-4e92-9611-d2b818bdc8a3</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.fabvenues.in/'</defaultValue>
+      <description>Base Url of Fabvenues Site</description>
+      <id>50e43cad-fa36-44d3-8cda-f858597eee25</id>
+      <masked>false</masked>
+      <name>baseurl</name>
+   </variable>
+   <variable>
+      <defaultValue>'duke220@mailinator.com'</defaultValue>
+      <description>User Login Email Address</description>
+      <id>f71625cd-8d90-41aa-9027-76a5f2764443</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'cvW8qx4B2o3F4VwP/kNsqA=='</defaultValue>
+      <description>User Login Password</description>
+      <id>4698062e-bf5b-4d60-89a8-a5437752015a</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
